@@ -1,4 +1,4 @@
-👋 Hi, I’m @f00Vmey
+👋 Hi, I’m @f00Vmey, but you can call me Foomey
 
 👀 I’m interested in coding in batch and python mainly. I like the idea of pen testing, finding all the flaws of a system
 
@@ -10,8 +10,7 @@ and finding a way to exploit them 🤖
 
 😄 Pronouns: My pronouns are he/him.
 
-😄Thank you for stopping by my page, I hope some these tools are usful in pen testing! 
-Remember keep it "educational purposes only!" 😅 
+👌Thank you for stopping by my page!
 
 <!---
 f00Vmey/f00Vmey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
